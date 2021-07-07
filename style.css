@@ -832,6 +832,10 @@ textarea {
 	margin-bottom: 0.5em;
 }
 
+.page-title {
+	margin: 0 0 1em;
+}
+
 .page-links {
 	clear: both;
 	margin: 0 0 1.5em;
