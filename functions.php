@@ -184,3 +184,8 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 if ( class_exists( 'WooCommerce' ) ) {
 	require get_template_directory() . '/inc/woocommerce.php';
 }
+
+/**
+ * Disable image size threshold to prevent image scaling.
+ */
+add_filter( 'big_image_size_threshold', '__return_false' );
