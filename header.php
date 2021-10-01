@@ -16,10 +16,8 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<link href="<?php echo get_stylesheet_directory_uri(); ?>/bootstrap.css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/bootstrap.css/bootstrap.min.css">
 	<link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/highlight.js/default.min.css">
-	<script src="<?php echo get_stylesheet_directory_uri(); ?>/highlight.js/highlight.min.js"></script>
-	<script>hljs.highlightAll();</script>
 
 	<?php wp_head(); ?>
 </head>
