@@ -487,6 +487,10 @@ pre {
 	padding: 0.8em;
 }
 
+pre code.hljs {
+	padding: 0em !important
+}
+
 code,
 kbd,
 tt,
