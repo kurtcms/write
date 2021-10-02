@@ -6,7 +6,7 @@ Theme Name: Write
 Theme URI: https://github.com/kurtcms/write  
 Author: Kurt C. M. See  
 Author URL: https://kurtcms.org  
-Description: Building upon the awesome starter theme of [_s](https://github.com/Automattic/_s) and the wondrous [Bootstrap 5](https://github.com/twbs/bootstrap) CSS framework, Write is a blank canvas WordPress theme for thoughts of all sorts.  
+Description: Building upon the awesome starter theme of [_s](https://github.com/Automattic/_s) and the wondrous [Bootstrap 5](https://github.com/twbs/bootstrap) CSS framework, Write is a blank canvas WordPress theme, with syntax highlighting powered by [highlight.js](https://github.com/highlightjs/highlight.js), for thoughts of all sorts.  
 Version: 10.0  
 Tested up to: 5.6  
 Requires PHP: 5.6  
@@ -17,7 +17,7 @@ Tags: two-columns, right-sidebar, custom-menu, custom-logo, featured-image-heade
 
 Write WordPress Theme, (C) 2021 Kurt C. M. See  
 Write is distributed under the terms of the GNU GPL.  
-  
+
 ## Installation
 1. Download this repository as a ZIP.
 2. Login to your WordPress Admin dashboard and navigate to 'Themes' under 'Appearance'.
