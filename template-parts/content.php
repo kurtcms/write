@@ -38,6 +38,10 @@
 
 				<?php write_post_thumbnail(); ?>
 
+				<div class="figure-caption">
+					<?php the_post_thumbnail_caption() ?>
+				</div>
+
 				<div class="entry-content">
 					<?php
 					the_content(
