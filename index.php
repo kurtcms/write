@@ -43,6 +43,10 @@ get_header();
 
 					endwhile;
 
+					if ( class_exists( 'Jetpack' ) && !Jetpack::is_module_active( 'infinite-scroll' ) ) :
+						the_posts_pagination();
+					endif;
+
 				else :
 
 					get_template_part( 'template-parts/content', 'none' );
