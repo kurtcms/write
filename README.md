@@ -1,6 +1,6 @@
 # Write: A Blank Canvas WordPress Theme for Thoughts of All Sorts
 
-<kbd>![alt text](https://kurtcms.org/git/write/write-screenshot.png)</kbd>
+<kbd>![alt text](https://github.com/kurtcms/write/blob/master/screenshot.png)</kbd>
 
 Theme Name: Write  
 Theme URI: https://github.com/kurtcms/write  
