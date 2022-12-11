@@ -11,7 +11,7 @@ Version: 10.0
 Tested up to: 5.6  
 Requires PHP: 5.6  
 License: GNU General Public License v2 or later  
-License URL: LICENSE  
+License URI: LICENSE  
 Text Domain: write  
 Tags: two-columns, right-sidebar, custom-menu, custom-logo, featured-image-header, featured-images, flexible-header, rtl-language-support, sticky-post, threaded-comments, translation-ready  
 
