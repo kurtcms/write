@@ -16,7 +16,7 @@ Text Domain: write
 Tags: two-columns, right-sidebar, custom-menu, custom-logo, featured-image-header, featured-images, flexible-header, rtl-language-support, sticky-post, threaded-comments, translation-ready  
 
 Write WordPress Theme, (C) 2021 Kurt, Cheung Mun See  
-Write is distributed under the terms of the GNU GPL.  
+Write is distributed under the terms of the GNU GPL  
 
 ## Installation
 
